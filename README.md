@@ -3,6 +3,7 @@
 I'm Karol 😄 
 
 I completed my engineering degree at AGH University of Krakow and I am currently pursuing a master's degree at WSIiZ University.
+
 I am passionate about technology and constantly learning new things. I enjoy building projects, exploring modern tools and improving my skills every day.
 
 🎓 Education
