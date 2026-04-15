@@ -10,9 +10,9 @@ I am passionate about technology and constantly learning new things. I enjoy bui
 AGH University of Krakow <br>
 🎓 Engineer Degree (BEng) <br>
 
-Field: Computer Science in Engineering <br>
-Years: 2021 - 2025 <br>
-Focused on software engineering, programming and technology. <br>
+- Field: Computer Science
+- Years: 2020 – 2024
+- Focused on software engineering, programming and technology.
 
 WSIiZ University
 📚 Master's Degree (MSc)
