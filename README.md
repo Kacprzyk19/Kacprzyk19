@@ -6,8 +6,8 @@ I completed my engineering degree at AGH University of Krakow and I am currently
 
 I am passionate about technology and constantly learning new things. I enjoy building projects, exploring modern tools and improving my skills every day.
 
-🎓 Education 
-AGH University of Krakow <br>
+##🎓 Education 
+#AGH University of Krakow <br>
 🎓 Engineer Degree (BEng) <br>
 
 - Field: Computer Science
