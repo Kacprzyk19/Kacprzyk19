@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Karol 😄 
+I'm Karol 🙂
 
 I completed my engineering degree at AGH University of Krakow and I am currently pursuing a master's degree at WSIiZ University.
 
